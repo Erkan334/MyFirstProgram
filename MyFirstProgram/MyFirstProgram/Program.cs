@@ -20,7 +20,7 @@
 
             Console.WriteLine("Vad heter du?");
 
-            string name = Console.ReadLine();           //The user writes in what the string "name" should be
+            string name = Console.ReadLine();           //The user writes in what the string "name" should be Kalopps
 
             Console.WriteLine("Hej " + name + "!");     
 
